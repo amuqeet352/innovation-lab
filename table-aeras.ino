@@ -1,5 +1,7 @@
 //     Aeras Version 1.0.1
 //     Air Quality Monitoring with onboard display
+//     Date: 07/12/2020
+//     Author: Abdul Muqeet
 
 //========== Libraries ==========
 #include "SdsDustSensor.h"
