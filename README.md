@@ -25,3 +25,6 @@ Libraries Used:
 Operation:
 	Just make the connections properly and burn the code. You'll get Temperature, Humidity, PM2.5, PM10 and AQI levels around your environment on your screen.
 	STL Files for the enclosure are also attached, if you want to 3D print and make a cool device in place of Table stand.
+
+Short Demo Video of Device:
+https://drive.google.com/file/d/1zIghLL1Dk488MAq8KQTiflVMG0ZGnygQ/view?usp=sharing
